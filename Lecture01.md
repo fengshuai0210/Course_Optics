@@ -2,4 +2,4 @@
 
 ## 
 
-$$$E=A_1\cos(\omega t+\psi)$$$
+$$E=A_1\cos(\omega t+\psi)$$
